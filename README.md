@@ -5,3 +5,4 @@ Provide a visualization tool called Grad-CAM to pinpoint potential locations of 
 # Reference
 * [Towards Better Explanations of Class Activation Mapping - Hyungsik Jung, Youngrock Oh](https://arxiv.org/abs/2102.05228)
 * [Learning Deep Features for Discriminative Localization](https://arxiv.org/abs/1512.04150)
+* [Grad-CAM class activation visualization](https://keras.io/examples/vision/grad_cam/)
